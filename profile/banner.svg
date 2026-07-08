@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="FunDive — open-source software for scuba dive centers">
+  <defs>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#012a4a"/>
+      <stop offset="0.55" stop-color="#014f86"/>
+      <stop offset="1" stop-color="#2a6f97"/>
+    </linearGradient>
+    <linearGradient id="ray" x1="0" y1="0" x2="0.3" y2="1">
+      <stop offset="0" stop-color="#89c2d9" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#89c2d9" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 78px "Segoe UI", Helvetica, Arial, sans-serif; }
+      .tag   { font: 400 27px "Segoe UI", Helvetica, Arial, sans-serif; }
+      .kick  { font: 600 18px "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: 5px; }
+    </style>
+  </defs>
+
+  <!-- ocean -->
+  <rect width="1200" height="340" fill="url(#sea)"/>
+
+  <!-- light rays from the surface -->
+  <polygon points="180,0 320,0 250,340 200,340" fill="url(#ray)"/>
+  <polygon points="520,0 700,0 640,340 560,340" fill="url(#ray)"/>
+  <polygon points="900,0 1010,0 980,340 920,340" fill="url(#ray)"/>
+
+  <!-- rising bubbles -->
+  <g fill="#a9d6e5" opacity="0.5">
+    <circle cx="1050" cy="90" r="7"/>
+    <circle cx="1080" cy="150" r="4"/>
+    <circle cx="1030" cy="200" r="5"/>
+    <circle cx="120" cy="120" r="6"/>
+    <circle cx="90" cy="185" r="3.5"/>
+    <circle cx="150" cy="240" r="4.5"/>
+    <circle cx="1000" cy="270" r="3"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="600" y="150" text-anchor="middle" class="kick" fill="#a9d6e5">GLOBAL · OPEN SOURCE · SELF-HOSTED</text>
+  <text x="600" y="228" text-anchor="middle" class="title" fill="#ffffff">FunDive</text>
+  <text x="600" y="272" text-anchor="middle" class="tag" fill="#cae9f5">The free operating system for scuba dive centers</text>
+
+  <!-- seabed wave -->
+  <path d="M0,320 C200,300 340,340 600,322 C860,304 1000,340 1200,318 L1200,340 L0,340 Z" fill="#012a4a" opacity="0.6"/>
+</svg>
