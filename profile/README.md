@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./fundive-logo.svg" alt="FunDive — free, open-source management app for scuba dive shops" width="480" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./fundive-logo-dark.svg" />
+  <img src="./fundive-logo.svg" alt="FunDive — free, open-source management app for scuba dive shops" width="480" />
+</picture>
 
 <br/>
 
