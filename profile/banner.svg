@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="FunDive — open-source software for scuba dive centers">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="FunDive — free, open-source management app for scuba dive shops">
   <defs>
     <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#012a4a"/>
@@ -38,7 +38,7 @@
   <!-- wordmark -->
   <text x="600" y="150" text-anchor="middle" class="kick" fill="#a9d6e5">GLOBAL · OPEN SOURCE · SELF-HOSTED</text>
   <text x="600" y="228" text-anchor="middle" class="title" fill="#ffffff">FunDive</text>
-  <text x="600" y="272" text-anchor="middle" class="tag" fill="#cae9f5">The free operating system for scuba dive centers</text>
+  <text x="600" y="272" text-anchor="middle" class="tag" fill="#cae9f5">Free, open-source management app for scuba dive shops</text>
 
   <!-- seabed wave -->
   <path d="M0,320 C200,300 340,340 600,322 C860,304 1000,340 1200,318 L1200,340 L0,340 Z" fill="#012a4a" opacity="0.6"/>

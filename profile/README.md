@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="FunDive — the free operating system for scuba dive centers" width="100%" />
+<img src="./banner.svg" alt="FunDive — free, open-source management app for scuba dive shops" width="100%" />
 
 <br/>
 
