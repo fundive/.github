@@ -15,7 +15,6 @@ Bookings · courses · payments · dive logs · ride & fleet logistics — in on
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-00629b?style=for-the-badge)](https://www.gnu.org/licenses/agpl-3.0)
 [![Free to use](https://img.shields.io/badge/Price-Free_forever-2a9d8f?style=for-the-badge)](https://github.com/fundive/fundive)
 [![PWA](https://img.shields.io/badge/App-Installable_PWA-014f86?style=for-the-badge)](https://github.com/fundive/fundive)
-[![Made by Fun Divers Taiwan](https://img.shields.io/badge/Made_by-Fun_Divers_Taiwan-e76f51?style=for-the-badge)](https://www.fundiverstw.com)
 
 </div>
 
@@ -57,27 +56,10 @@ a strong-copyleft license in the GPL family. In plain terms:
 
 You own the code. You own your data. The scuba community owns the future of the platform. 🤝
 
-## ⚓ Developed & maintained by Fun Divers Taiwan
+## ⚓ About
 
-<div align="center">
-
-<a href="https://www.fundiverstw.com"><img src="./fun-divers-taiwan-logo.png" alt="Fun Divers Taiwan" width="420" /></a>
-
-### 🇹🇼 FunDive is proudly built and maintained by the team at **[Fun Divers Taiwan](https://www.fundiverstw.com)**
-
-</div>
-
-FunDive isn't theoretical software — it was designed, built, and **battle-tested in a real, working
-dive shop**. The team at **Fun Divers Taiwan** created FunDive to run their own operations, and they
-continue to actively develop and maintain it as an open-source gift to divers everywhere.
-
-Every feature exists because a real dive center needed it. When you run FunDive, you're running the
-same platform that powers **Fun Divers Taiwan** every single day.
-
-<div align="center">
-
-**🌐 [www.fundiverstw.com](https://www.fundiverstw.com)**
-
-*Made with 🫧 by divers, for divers.*
-
-</div>
+FunDive is an **independent, non-profit, open-source project** for the benefit of the dive
+community, created and maintained by **Eric Odle** in 2026. It is not owned by or affiliated with
+Fun Divers Taiwan or any other organization. [Fun Divers Taiwan](https://www.fundiverstw.com), a dive
+shop in Taipei, helped field-test the app in real shop operations as a way to give back to the
+community.
